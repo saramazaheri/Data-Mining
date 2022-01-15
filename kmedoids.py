@@ -78,4 +78,4 @@ for label in C:
 
 #Sara Mazaheri
 #Data Mining
-# K-Medoids
+#K-Medoids
